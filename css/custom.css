@@ -1,0 +1,37 @@
+img{
+    height: 50px;
+}
+
+.navElement{
+    margin: 5px;
+    float: left;
+       background-color: #f0f0f0
+}
+.navElement:hover{
+    color: #005682;
+    text-decoration: none;
+}
+
+.navElement a{
+    text-decoration: none;
+}
+header{
+    
+    color: white;
+    font-size: 12pt;
+    background-color: rgb(17, 78, 134)
+}
+article{
+    clear:left;
+}
+
+
+footer{
+    clear:left;
+    color: gray;
+    
+}
+
+.visited{
+    color:#005682 
+}
